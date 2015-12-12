@@ -1,6 +1,6 @@
 <?php
 
-echo '<html><body><h1>Hi World!</h1></body></html>';
+echo '<html><body><h1>Hello World!</h1></body></html>';
 die();
 
 ?>
